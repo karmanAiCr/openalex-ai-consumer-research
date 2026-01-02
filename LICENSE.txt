@@ -1,0 +1,91 @@
+MIT License
+
+Copyright (c) 2025 [Dr Karman(s)/SP Jain School of Global Management]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ADDITIONAL TERMS:
+
+Data License:
+The data extracted using this script comes from OpenAlex, which is released 
+under CC0 (Creative Commons Zero v1.0 Universal - Public Domain Dedication).
+See: https://openalex.org/about
+
+You are free to:
+- Use the extracted data for any purpose
+- Modify and redistribute the data
+- Use the data commercially
+- No attribution is legally required (though encouraged)
+
+Citation Request:
+While not legally required, we request that you:
+1. Cite the original paper when using this script or the corpus
+2. Acknowledge OpenAlex as the data source
+3. Reference the openalexR package
+
+Example citation:
+[Your citation here - see CITATION.bib]
+
+OpenAlex citation:
+Priem, J., Piwowar, H., & Orr, R. (2022). OpenAlex: A fully-open index of 
+scholarly works, authors, venues, institutions, and concepts. 
+arXiv. https://arxiv.org/abs/2205.01833
+
+---
+
+NO WARRANTIES:
+This script is provided "as is" for research transparency and reproducibility.
+The authors make no warranties about:
+- Completeness or accuracy of extracted data
+- Suitability for any particular purpose
+- Compatibility with future API versions
+- Results obtained from running the script
+
+USE AT YOUR OWN RISK:
+Users are responsible for:
+- Verifying the accuracy of results
+- Complying with OpenAlex's terms of service
+- Respecting copyright on full-text articles
+- Following ethical research practices
+
+---
+
+THIRD-PARTY LICENSES:
+
+This script depends on the following R packages, each with its own license:
+
+- openalexR: MIT License
+- dplyr: MIT License
+- tidyr: MIT License
+- stringr: MIT License
+- lubridate: GPL (>= 2)
+- jsonlite: MIT License
+- httr: MIT License
+- purrr: MIT License
+- R: GPL-2 | GPL-3
+
+See each package's documentation for full license terms.
+
+---
+
+For questions about this license, contact: [Your email]
+
+Last updated: December 29, 2025

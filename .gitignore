@@ -1,49 +1,92 @@
-# History files
+# R and RStudio files
 .Rhistory
-.Rapp.history
-
-# Session Data files
 .RData
-.RDataTmp
-
-# User-specific files
-.Ruserdata
-
-# Example code in package build process
-*-Ex.R
-
-# Output files from R CMD build
-/*.tar.gz
-
-# Output files from R CMD check
-/*.Rcheck/
-
-# RStudio files
+.Rproj.user
+*.Rproj
 .Rproj.user/
 
-# produced vignettes
+# Output directory (created by script, should not be in repo)
+output/
+*.csv
+*.rds
+*.RData
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# R package development
+.Rbuildignore
+inst/doc
 vignettes/*.html
 vignettes/*.pdf
 
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
-
-# knitr and R markdown default cache directories
-*_cache/
-/cache/
-
-# Temporary files created by R markdown
+# knitr and R markdown
 *.utf8.md
 *.knit.md
+.Rproj.user
+*_cache/
+*_files/
 
-# R Environment Variables
-.Renviron
-
-# pkgdown site
+# pkgdown
 docs/
+pkgdown/
 
-# translation temp files
-po/*~
+# Temporary R files
+.Rcheck/
 
-# RStudio Connect folder
-rsconnect/
+# Python (if adding Python version later)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# API keys or credentials (IMPORTANT: never commit these)
+.env
+.env.local
+credentials.json
+api_keys.txt
+
+# Large data files (optional - uncomment if needed)
+# *.rda
+# *.rdata
+# large_corpus.csv
+
+# Exceptions (files we DO want to track)
+!README.md
+!LICENSE.txt
+!CHANGELOG.md
+!CITATION.bib
+!requirements.txt
+!CONTRIBUTING.md
+!openalex_ai_consumer_search.R
+!examples/*.R
+!docs/*.md
