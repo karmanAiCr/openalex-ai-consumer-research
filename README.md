@@ -1,6 +1,6 @@
 # OpenAlex AI Consumer Research Corpus
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18123218.svg)](https://doi.org/10.5281/zenodo.18123218)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![R Version](https://img.shields.io/badge/R-%3E%3D4.0.0-blue)](https://www.r-project.org/)
 [![OpenAlex](https://img.shields.io/badge/Data-OpenAlex-orange)](https://openalex.org/)
@@ -276,7 +276,7 @@ See [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for complete guide.
   year = {2025},
   publisher = {GitHub},
   url = {https://github.com/karmanAiCr/openalex-ai-consumer-research},
-  doi = {10.5281/zenodo.XXXXXXX}
+  doi = {10.5281/zenodo.18123218}
 }
 ```
 
@@ -389,5 +389,5 @@ If you find this resource useful for your research, please consider:
 
 **Last Updated:** December 29, 2025  
 **Repository:** https://github.com/karmanAiCr/openalex-ai-consumer-research  
-**DOI:** 10.5281/zenodo.XXXXXXX  
+**DOI:** 10.5281/zenodo.18123218  
 **License:** MIT + CC0
