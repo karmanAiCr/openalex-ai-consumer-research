@@ -178,6 +178,3 @@ cat("- Open access papers:", sum(corpus_clean$is_open_access, na.rm = TRUE),
 cat("\nAll files saved to output/ directory\n")
 cat("Use load('output/openalex_search_workspace.RData') to resume analysis\n")
 
-# ==============================================================================
-# END OF SCRIPT
-# ==============================================================================
