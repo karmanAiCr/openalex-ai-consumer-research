@@ -10,12 +10,6 @@ This repository contains materials for both stages of our research:
 **Purpose:** Broad landscape mapping via OpenAlex extraction  
 **Files:** R code, documentation, examples
 
-### Systematic Review (N=78)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18149448.svg)](https://doi.org/10.5281/zenodo.18149448)
-
-**Location:** [`/systematic_review/`](systematic_review/)  
-**Purpose:** PRISMA 2020-compliant thematic synthesis  
-**Files:** Study data, coding, PRISMA materials
 
 [See systematic_review/README.md](systematic_review/README.md)
 
