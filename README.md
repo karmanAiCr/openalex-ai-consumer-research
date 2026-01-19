@@ -3,7 +3,7 @@
 
 This repository contains materials for both stages of our research:
 
-### Bibliometric Corpus (N=10,903)
+### Bibliometric Corpus 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18123218.svg)](https://doi.org/10.5281/zenodo.18123218)
 
 **Location:** Root directory  
